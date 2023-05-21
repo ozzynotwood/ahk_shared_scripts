@@ -1,5 +1,5 @@
 ::and::&
-
+;
 :*:add:: 
     {
     autocomplete("Add", "itionally")
