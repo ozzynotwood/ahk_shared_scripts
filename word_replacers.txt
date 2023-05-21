@@ -1,4 +1,3 @@
-; WORD REPLACERS
 ::and::&
 
 :*:add:: 
