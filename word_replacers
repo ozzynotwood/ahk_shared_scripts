@@ -1,0 +1,37 @@
+::and::&
+
+:*:add:: 
+    {
+    autocomplete("Add", "itionally")
+    }
+
+:*:alt::
+    {
+        autocomplete("Alt", "ernatively")
+    }
+
+:*:def::
+    {
+        autocomplete("Def", "initely")
+    }
+
+:*:degrees::°{LEFT 2}{DEL}{RIGHT}
+
+:*:equiv::
+    {
+        autocomplete("equiv", "alent")
+    }
+
+    :*:fiance::fiancé
+    :*:facebook::Facebook
+    :*:lol::😂
+    :*:JF::John Frusciante
+    :*:mong::Mongolian Tögrögs
+    :*:pns::Pack & Send
+    :*:resume::resumé
+    
+:*:sub::
+    {
+            autocomplete("sub", "sequently")
+    }
+:*:youtube::YouTube
