@@ -1,0 +1,6 @@
+MButton & V::SendInput A_Clipboard
+Mbutton & T::SendInput "✅ "
+Mbutton & X::SendInput "❌ "
+Mbutton & .::SendInput "● "
+MButton & =::SendInput "≠ "
+Mbutton & ESC::SendInput "^w" ; Closes crome tabs
