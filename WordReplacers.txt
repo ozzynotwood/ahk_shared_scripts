@@ -5,7 +5,6 @@
     autocomplete("Add", "itionally")
     }
 
-
 :*:alt::
     {
         autocomplete("Alt", "ernatively")
@@ -38,7 +37,6 @@
     }
 :*:wfh::work from home
 :*:youtube::YouTube
-
 
 autocomplete(trigger, clipboard_update)
     {
