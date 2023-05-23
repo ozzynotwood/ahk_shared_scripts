@@ -28,6 +28,7 @@
     :*:lol::😂
     :*:JF::John Frusciante
     :*:mong::Mongolian Tögrögs
+    :*:pn::part number
     :*:pns::Pack & Send
     :*:resume::resumé
     
@@ -35,6 +36,7 @@
     {
             autocomplete("sub", "sequently")
     }
+:*:wfh::work from home
 :*:youtube::YouTube
 
 
