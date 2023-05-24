@@ -10,6 +10,11 @@
         autocomplete("Alt", "ernatively")
     }
 
+:*:con::
+    {
+        autocomplete("con", "signment note")
+    }
+
 :*:def::
     {
         autocomplete("Def", "initely")
