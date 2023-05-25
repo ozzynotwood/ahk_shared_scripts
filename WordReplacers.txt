@@ -36,7 +36,6 @@
 :*:pns::Pack & Send
 :*:resume::resumé
 :*:sn::serial number
-:*:::serial number
     
 :*:sub::
     {
