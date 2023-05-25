@@ -36,7 +36,7 @@
 :*:pns::Pack & Send
 :*:resume::resumé
 :*:sn::serial number
-    
+
 :*:sub::
     {
             autocomplete("sub", "sequently")
