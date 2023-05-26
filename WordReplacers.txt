@@ -5,7 +5,7 @@
     A_Clipboard := itionally
     SoundBeep 999
 }
- 
+
 /*
 :*:add:: 
     {
