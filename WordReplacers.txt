@@ -7,8 +7,8 @@
 
 :*b0:Alt::
 {
-    A_Clipboard := "ernatively"
-    SoundBeep 999
+    autocomplete("ernatively")
+    
 }
 
 :*b0:Con::
