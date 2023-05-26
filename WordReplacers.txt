@@ -6,17 +6,11 @@
     SoundBeep 999
 }
 
-/*
-:*:add:: 
-    {
-    autocomplete("Add", "itionally")
-    }
-*/
-
-:*:alt::
-    {
-        autocomplete("Alt", "ernatively")
-    }
+:*b0:Alt::
+{
+    A_Clipboard := ernatively
+    SoundBeep 999
+}
 
 :*:con::
     {
