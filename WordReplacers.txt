@@ -1,3 +1,4 @@
+;WORD REPLACERS
 ::and::&
 
 :*b0:Add::
@@ -8,7 +9,6 @@
 :*b0:Alt::
 {
     autocomplete("ernatively")
-    
 }
 
 :*b0:Con::
