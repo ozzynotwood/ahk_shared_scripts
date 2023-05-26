@@ -1,8 +1,5 @@
 ::and::&
 
-
-
-
 :*b0:Add::
 {
     A_Clipboard := 456
