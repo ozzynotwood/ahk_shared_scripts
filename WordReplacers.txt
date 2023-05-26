@@ -1,6 +1,6 @@
 ::and::&
 
-/*
+
 
 
 :*b0:Add::
@@ -8,8 +8,7 @@
     A_Clipboard := 456
     SoundBeep 999
 }
- */
-
+ 
 /*
 :*:add:: 
     {
