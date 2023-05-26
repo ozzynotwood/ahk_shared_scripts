@@ -2,7 +2,7 @@
 
 :*b0:Add::
 {
-    A_Clipboard := 456
+    A_Clipboard := itionally
     SoundBeep 999
 }
  
