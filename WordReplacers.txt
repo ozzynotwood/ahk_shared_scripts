@@ -3,6 +3,8 @@
 
 :*b0:Add::
 {
+        Send StrSplit(ThisHotKey, ":")[-1] 
+     ThisHotKey == ":*:Add"
     A_Clipboard := 456
     SoundBeep 999
 }
