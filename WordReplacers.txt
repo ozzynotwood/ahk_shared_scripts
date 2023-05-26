@@ -2,13 +2,13 @@
 
 :*b0:Add::
 {
-    A_Clipboard := itionally
+    A_Clipboard := "itionally"
     SoundBeep 999
 }
 
 :*b0:Alt::
 {
-    A_Clipboard := ernatively
+    A_Clipboard := "ernatively"
     SoundBeep 999
 }
 
