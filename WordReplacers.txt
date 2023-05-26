@@ -2,8 +2,7 @@
 
 :*b0:Add::
 {
-    A_Clipboard := "itionally"
-    SoundBeep 999
+    autocomplete("itionally")
 }
 
 :*b0:Alt::
@@ -12,15 +11,17 @@
     SoundBeep 999
 }
 
-:*:con::
-    {
-        autocomplete("con", "signment note")
-    }
+:*b0:Con::
+{
+    A_Clipboard := "signment note"
+    SoundBeep 999
+}
 
-:*:def::
-    {
-        autocomplete("Def", "initely")
-    }
+:*b0:Con::
+{
+    A_Clipboard := "signment note"
+    SoundBeep 999
+}
 
 :*:degrees::°{LEFT 2}{DEL}{RIGHT}
 
@@ -47,9 +48,8 @@
 :*:wfh::work from home
 :*:youtube::YouTube
 
-autocomplete(trigger, clipboard_update)
+autocomplete(clipboard_update)
     {
-        SendInput trigger
         A_Clipboard := clipboard_update
         SoundBeep 500
         SoundBeep 999
