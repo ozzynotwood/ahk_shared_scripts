@@ -13,8 +13,7 @@
 
 :*b0:Con::
 {
-    A_Clipboard := "signment note"
-    SoundBeep 999
+    autocomplete("signment note")
 }
 
 :*b0:Con::
