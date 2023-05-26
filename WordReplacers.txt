@@ -27,7 +27,7 @@
 
 :*:equiv::
     {
-        autocomplete("equiv", "alent")
+        autocomplete("alent")
     }
 
 :*:fiance::fiancé
@@ -42,7 +42,7 @@
 
 :*:sub::
     {
-            autocomplete("sub", "sequently")
+            autocomplete("sequently")
     }
     
 :*:wfh::work from home
