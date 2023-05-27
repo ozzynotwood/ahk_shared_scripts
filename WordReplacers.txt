@@ -37,7 +37,7 @@
 :*:pn::part number
 :*:pns::Pack & Send
 :*:resume::resumé
-:*:sn::serial number
+::sn::serial number ; There are other words that start with "SN"
 
 :*b0:sub::
     {
