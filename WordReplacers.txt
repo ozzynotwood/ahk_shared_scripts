@@ -24,7 +24,7 @@
 
 :*:degrees::°{LEFT 2}{DEL}{RIGHT}
 
-:*:equiv::
+:*b0:equiv::
     {
         autocomplete("alent")
     }
@@ -39,7 +39,7 @@
 :*:resume::resumé
 :*:sn::serial number
 
-:*:sub::
+:*b0:sub::
     {
             autocomplete("sequently")
     }
